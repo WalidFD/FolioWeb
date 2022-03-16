@@ -17,45 +17,41 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: WWICS
+  title-url: https://wwicsgroup.com/
+  date: Feb 2017 - Aug 2017
+  subtitle: Internship
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
-  tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+- title: Lycee d'Etat de Djibouti
+  title-url: http://www.lycee-djibouti.org/
+  date: 2009 - 2011
+  subtitle: Baccalaureat de L'Enseignement Secondaire
+  Major : Gestion de Systeme d'Information
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
-  tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
+- title: English Language Teaching Institute of Symbiosis(ELTIS)
+  title-url: https://eltis.edu.in/
+  date: 2012 - 2013
+  subtitle: Certificate Course in English(For International Student)
   timeline-side: left
+
+- title: IK Gujral Punjab Technical University
+  College : Chandigarh College of Technology
+  title-url: https://www.ptu.ac.in/
+  date: 2013 - 2016/17
+  subtitle: Bachelor of Computer Application
+  timeline-side: left
+
+- title: Jawaharlal Nehru University 
+  title-url: https://www.jnu.ac.in/
+  date: 2017 - 2018
+  subtitle: Casual Studentship in Master of International Relations
+  timeline-side: left
+
+- title: Amity University
+  title-url: https://www.amity.edu/
+  date: 2020 - 2021
+  subtitle: Post-Graduated Diploma in Data Science
+  timeline-side: left
+  
