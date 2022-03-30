@@ -13,21 +13,13 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-#- name: project X
-#  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#  demo: https://example.com/
-#  tags:
-#    - tag: MongoDB
-#    - tag: Express
-#    - tag: AngularJS
-#    - tag: Node
+ - name: Predicting Defaulting Loans with Logistic Regression
+   descr: "The main objective of the project is to set out a good predictive Model to the extent of its limitations, from the collected existing information on the quality of the loan and improving the profit level with the status of the loans, to set out the various variables of these standards and benchmarks to qualify for a good loan and to extract from it a list of minimum variables to predict a quality standards loans in consideration for approval. "
+   demo: https://github.com/WalidFD/Logistic-Regression-Proj
+   tags:
+     - tag: R-Studio
+     - tag: R
+     - tag: GGPLOT
+     - tag: GLM
 
-#- name: project Y
-#  descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
-#  demo: https://example.com/
-#  tags:
-#    - tag: Python
-#    - tag: Django
-
-#- name: project Z
-#  descr: "You can also set a project without demo link and no tags"
+ 
